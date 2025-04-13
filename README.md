@@ -107,13 +107,12 @@ Top contributors to potability prediction:
 
 ---
 
-## 🏆 Author Contribution  
-This project was individually completed by **Sunny Rao Karegam** as part of the **MSc. Data Analytics** program.
-
-**Key contributions include:**  
+## 🏗 Project Contributions  
+This project includes the following key components:  
 ✔️ Exploratory Data Analysis  
 ✔️ Data Cleaning & Preprocessing  
 ✔️ Model Training, Tuning, and Evaluation  
-✔️ Report and Code Documentation
+✔️ Report and Code Documentation  
+
 
 ---
